@@ -108,7 +108,6 @@ lbl_contenedorDatosMemoria = Label(contenedor)
 lbl_contenedorDatosMemoria.config(justify=LEFT, bg="lightgray", fg="white", font=(font_text, 14, BOLD), border=0)
 lbl_contenedorDatosMemoria.place(x=220, y=100, width=170, height=100)
 
-lbl_
 # Configuración de los WIDGETs Button
 
 # Primera fila
